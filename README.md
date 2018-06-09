@@ -3,4 +3,4 @@
 
 Projekt ten był wykonywany w 4 osobowym zespole, w ramach Pracowni Programownaia Zespołowego. Nasz projekt zajął 2 miejsce.
 
-W tym repozytorium znajdziesz pliki związane z drukiem 3D - projekty całej broni wraz z elemntami wewnętrznymi.
+W tym repozytorium znajdziesz pliki związane z drukiem 3D - projekty całej broni wraz z elementami wewnętrznymi.
