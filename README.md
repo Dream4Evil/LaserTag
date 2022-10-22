@@ -6,3 +6,5 @@ Projekt ten był wykonywany w 4 osobowym zespole, w ramach Pracowni Programownai
 W tym repozytorium znajdziesz pliki związane z drukiem 3D - projekty całej broni wraz z elementami wewnętrznymi.
 
 Kod do kontrolera Arduino: https://github.com/Wolficzek/lastertag
+
+![image](https://user-images.githubusercontent.com/25203503/197308846-606bb54b-21c0-4598-892a-a62301b81a39.png)
