@@ -7,4 +7,4 @@ W tym repozytorium znajdziesz pliki związane z drukiem 3D - projekty całej bro
 
 Kod do kontrolera Arduino: https://github.com/Wolficzek/lastertag
 
-![image](https://user-images.githubusercontent.com/25203503/197308846-606bb54b-21c0-4598-892a-a62301b81a39.png)
+![RhinoFullWeaponView](https://user-images.githubusercontent.com/25203503/197308947-8f164258-50a8-44c0-8d86-7925535d438e.gif)
